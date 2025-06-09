@@ -19,6 +19,10 @@ Implements a product price management system using loops and dictionaries. The s
 
 Presents a scenario using Python classes with inheritance and functions. Includes class-based module creation, instance testing, and explanation with a final conclusion.
 
+Vehicle_System.py: Defines the Vehicle base class and child classes Car and Motorcycle.
+
+Import_Module.py: Tests the module by creating multiple instances and printing vehicle details.
+
 ---
 
 # 📂 Part 4: Files & Exceptions
